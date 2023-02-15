@@ -3,7 +3,7 @@
 // @namespace http://voilentmonkey.net/
 // @version 0.1
 // @description Removes the "Promote" button on Twitter
-// @author Razor7100 on Twitter
+// @author Razor7100 on TGithub\
 // @match https://twitter.com/*
 // @grant none
 // ==/UserScript==
