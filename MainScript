@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name Remove Twitter Promote Button
-// @namespace http://tampermonkey.net/
+// @namespace http://voilentmonkey.net/
 // @version 0.1
 // @description Removes the "Promote" button on Twitter
 // @author Razor7100 on Twitter
